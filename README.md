@@ -1,2 +1,2 @@
-# Cryptopals_Challenges
-Codes for Cryptopals Challenges
+# Cryptopals Challenges
+Python Codes for Cryptopals Challenges
